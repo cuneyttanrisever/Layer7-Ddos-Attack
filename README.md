@@ -1,4 +1,4 @@
-# Layer7-Ddos-Attack
+# Layer7 Ddos Attack
 
 Kuvvetli bir layer7 ddos saldırı prosudur
 
